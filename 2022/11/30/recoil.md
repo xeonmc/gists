@@ -10,7 +10,7 @@ Hello World
 
 
 <video width="480" height="320" controls="controls">
-  <source src="https://github.com/xeonmc/gists/releases/download/20221130/recoil.mp4" type="video/mp4">
+  <source src="https://github.com/xeonmc/gists/releases/download/attach-2022-11-30-recoil/recoil.mp4" type="video/mp4">
 </video>
 
 
