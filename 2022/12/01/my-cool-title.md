@@ -5,7 +5,7 @@
     document.addEventListener("DOMContentLoaded", function() {
         renderMathInElement(document.body, {
           delimiters: [
-            {left: " ```math", right: " ```", display: true},
+            {left: "```math", right: "```", display: true},
             {left: "$$", right: "$$", display: true},
             {left: "$", right: "$", display: false}
           ]
@@ -18,12 +18,12 @@ Inline $a^2 + b^2 = c^2$
 Fence block
 
 
- ```math
+```math
 \begin{aligned}
 f(t)      &= \int_{-\infty}^{\infty} F(\omega) e^{ 2 \pi i \omega t} d\omega \\
 F(\omega) &= \int_{-\infty}^{\infty} f(t)      e^{-2 \pi i \omega t} dt
 \end{aligned}
- ```
+```
 
 Double Dollar
 
