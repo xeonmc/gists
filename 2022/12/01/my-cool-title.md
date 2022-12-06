@@ -5,15 +5,14 @@
     document.addEventListener("DOMContentLoaded", function() {
         renderMathInElement(document.body, {
           delimiters: [
-            {left: "```math", right: "```", display: true},
             {left: "$$", right: "$$", display: true},
-            {left: "$", right: "$", display: false}
+            {left: "${}", right: "{}$", display: false}
           ]
         });
     });
 </script>
 
-Inline $a^2 + b^2 = c^2$
+Inline ${} a^2 + b^2 = c^2 {}$
 
 
 Double Dollar
@@ -24,14 +23,4 @@ f(t)      &= \int_{-\infty}^{\infty} F(\omega) e^{ 2 \pi i \omega t} d\omega \\
 F(\omega) &= \int_{-\infty}^{\infty} f(t)      e^{-2 \pi i \omega t} dt
 \end{aligned}
 $$
-
-Fence block
-
-
-```math
-\begin{aligned}
-f(t)      &= \int_{-\infty}^{\infty} F(\omega) e^{ 2 \pi i \omega t} d\omega \\
-F(\omega) &= \int_{-\infty}^{\infty} f(t)      e^{-2 \pi i \omega t} dt
-\end{aligned}
-```
 
