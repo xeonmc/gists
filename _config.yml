@@ -1,4 +1,5 @@
 title: myCustomTitle
 description: myCustomDetailedDescription
+theme: minima
 minima:
-  skin: github-dark
+  skin: dark
