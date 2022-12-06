@@ -1,7 +1,7 @@
 
-[testlink1]({{ site.baseurl }}/2022/11/30/recoil)
+[testlink1 (fourier)]({{ site.baseurl }}/2022/12/01/my-cool-title)
 
-[testlink2]({{ site.baseurl }}/2022/12/01/my-cool-title)
+[testlink2 (recoil)]({{ site.baseurl }}/2022/11/30/recoil)
 
-[testlink3]({{ site.baseurl }}/2022/12/01/testpage2/hello)
+[testlink3 (loremipsum)]({{ site.baseurl }}/2022/12/01/testpage2/hello)
 
