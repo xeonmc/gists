@@ -15,6 +15,16 @@
 
 Inline $a^2 + b^2 = c^2$
 
+
+Double Dollar
+
+$$
+\begin{aligned}
+f(t)      &= \int_{-\infty}^{\infty} F(\omega) e^{ 2 \pi i \omega t} d\omega \\
+F(\omega) &= \int_{-\infty}^{\infty} f(t)      e^{-2 \pi i \omega t} dt
+\end{aligned}
+$$
+
 Fence block
 
 
@@ -25,11 +35,3 @@ F(\omega) &= \int_{-\infty}^{\infty} f(t)      e^{-2 \pi i \omega t} dt
 \end{aligned}
 ```
 
-Double Dollar
-
-$$
-\begin{aligned}
-f(t)      &= \int_{-\infty}^{\infty} F(\omega) e^{ 2 \pi i \omega t} d\omega \\
-F(\omega) &= \int_{-\infty}^{\infty} f(t)      e^{-2 \pi i \omega t} dt
-\end{aligned}
-$$
