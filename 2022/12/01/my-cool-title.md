@@ -14,10 +14,10 @@
     });
 </script>
 
-Inline $e^{ix} = \cos(x) + i\sin(x)$
+Inline equation $e^{ix} = \cos(x) + i\sin(x)$
 
 
-Double Dollar
+Display equation
 
 $$
 \begin{aligned}
