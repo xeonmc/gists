@@ -6,15 +6,15 @@
         renderMathInElement(document.body, {
           delimiters: [
             {left: "$$", right: "$$", display: true},
-            {left: "\\[", right: "\\]", display: true},
             {left: "$", right: "$", display: false},
-            {left: "\\(", right: "\\)", display: false}
+            {left: "\\(", right: "\\)", display: false},
+            {left: "\\[", right: "\\]", display: true}
           ]
         });
     });
 </script>
 
-Inline ${} a^2 + b^2 = c^2 {}$
+Inline $e^{ix} = \cos(x) + i\sin(x)$
 
 
 Double Dollar
