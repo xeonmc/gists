@@ -1,4 +1,4 @@
 title: myCustomTitle
-description: myCustomAndDetailedDescription
+description: myCustomDetailedDescription
 minima:
-  skin: dark
+  skin: github-dark
