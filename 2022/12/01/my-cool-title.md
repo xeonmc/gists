@@ -1,6 +1,6 @@
 {{site.katexscript}}
 
-Inline equation $e^{ix} = \cos(x) + i\sin(x)$
+Inline equation $$e^{ix} = \cos(x) + i\sin(x)$$
 
 
 Display equation
