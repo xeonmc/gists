@@ -5,6 +5,8 @@ author: blogauthor
 
 # Blog Heading
 
+$$e^{ix} = \cos{x} + i\sin{x}$$
+
 Hello World
 
 
