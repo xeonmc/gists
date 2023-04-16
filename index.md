@@ -43,6 +43,9 @@ AsciiMath test:
 
 <script src="https://cdn.jsdelivr.net/gh/asciimath/asciimathml@master/ASCIIMathML.js"></script>
 
-E=mc^2
+
+amath
 
 `E=mc^2`
+
+E=mc^2
