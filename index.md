@@ -43,4 +43,4 @@ AsciiMath test:
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=AM_CHTML"></script>
 
-`E=mc^2`
+\`E=mc^2\`
