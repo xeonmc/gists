@@ -41,4 +41,8 @@ var mathField = MQ.MathField(mathFieldSpan, {
 AsciiMath test:
 
 
-<script src="https://cdn.jsdelivr.net/gh/asciimath/asciimathml@master/ASCIIMathML.js">E=mc^2</script>
+<script src="https://cdn.jsdelivr.net/gh/asciimath/asciimathml@master/ASCIIMathML.js"></script>
+
+E=mc^2
+
+`E=mc^2`
