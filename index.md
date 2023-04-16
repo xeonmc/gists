@@ -34,3 +34,11 @@ var mathField = MQ.MathField(mathFieldSpan, {
   }
 });
 </script>
+
+
+---
+
+AsciiMath test:
+
+
+<script src="https://cdn.jsdelivr.net/gh/asciimath/asciimathml@master/ASCIIMathML.js">E=mc^2</script>
